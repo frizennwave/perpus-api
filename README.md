@@ -76,7 +76,7 @@ request & response register (status 201)
 
 #### 2.2 Login berhasil — `POST /api/login`
 
-login dengan `admin@example.com` / `password` (status 200, ada token)
+login dengan `admin@perpustakaan.com` / `password` (status 200, ada token)
 
 ![Login berhasil](./docs/images/login.png)
 
